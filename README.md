@@ -6,7 +6,7 @@ STEP 2- After storing in folder right click then click on properties and click o
 
 STEP 3- A new text document will be visible in folder save it by giving a name FOLDERLOCK
 
-STEP 4- Double click on text document where u will see a blank notepad pad page upload a code which is mentioned in the file copy and paste the code in blank notepad page
+STEP 4- Double click on text document where u will see a blank notepad page upload a code which is mentioned in the file copy and paste the code in blank notepad page
  
 STEP 5- After copying a code make a changes in 21th line by changing password [seturpass] After changing the password leave a 1 space gape between pass and equal sign[=] don't join it
 
